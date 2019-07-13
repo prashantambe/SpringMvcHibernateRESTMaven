@@ -1,2 +1,2 @@
 # SpringMvcHibernateRESTMaven
-Spring mvc and hibernate crud operation 
+Spring mvc and hibernate, Rest and maven crud operation 
